@@ -1,0 +1,8 @@
+C:\Users\pedro.hnmarinho\source\repos\Sistema Venda Livros PJ\Sistema Venda Livros PJ\obj\Debug\Sistema Venda Livros PJ.csproj.AssemblyReference.cache
+C:\Users\pedro.hnmarinho\source\repos\Sistema Venda Livros PJ\Sistema Venda Livros PJ\obj\Debug\Sistema Venda Livros PJ.csproj.SuggestedBindingRedirects.cache
+C:\Users\pedro.hnmarinho\source\repos\Sistema Venda Livros PJ\Sistema Venda Livros PJ\obj\Debug\Sistema Venda Livros PJ.csproj.CoreCompileInputs.cache
+C:\Users\pedro.hnmarinho\source\repos\Sistema Venda Livros PJ\Sistema Venda Livros PJ\bin\Debug\Sistema Venda Livros PJ.exe.config
+C:\Users\pedro.hnmarinho\source\repos\Sistema Venda Livros PJ\Sistema Venda Livros PJ\bin\Debug\Sistema Venda Livros PJ.exe
+C:\Users\pedro.hnmarinho\source\repos\Sistema Venda Livros PJ\Sistema Venda Livros PJ\bin\Debug\Sistema Venda Livros PJ.pdb
+C:\Users\pedro.hnmarinho\source\repos\Sistema Venda Livros PJ\Sistema Venda Livros PJ\obj\Debug\Sistema Venda Livros PJ.exe
+C:\Users\pedro.hnmarinho\source\repos\Sistema Venda Livros PJ\Sistema Venda Livros PJ\obj\Debug\Sistema Venda Livros PJ.pdb
